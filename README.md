@@ -27,12 +27,12 @@ Installation
 
 3. Change libigl_incs in setup.py accordingly
 
-2. compile the project:
+4. compile the project:
 ```
 python setup.py build_ext --inplace
 ```
 
-3. Enjoy!   
+5. Enjoy!   
 ```
 python demo.py
 ```
