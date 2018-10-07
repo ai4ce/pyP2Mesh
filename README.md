@@ -8,6 +8,8 @@ This is the python3 wrapper for projecting a set of points onto a mesh, using [l
 
 Currently it is tested under Windows10(VC2017, x64), and python3.6 in Anaconda3.
 
+![](https://raw.githubusercontent.com/ai4ce/pyP2Mesh/499dc99c3b583fa3cb8ef5735a74ff2162521734/data/p2mesh.jpg)
+
 Version
 -------
 
